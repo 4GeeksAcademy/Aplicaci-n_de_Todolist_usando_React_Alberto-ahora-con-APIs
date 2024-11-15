@@ -10,3 +10,9 @@
     import 'relative/path/to/stylesheet.scss';
 
 */
+body{
+    background-image: url ('https://img.freepik.com/foto-gratis/textura-papel-acuarela_1194-2310.jpg') !important;
+    background-position: center;
+    background-repeat: repeat;
+    background-size: cover; 
+}

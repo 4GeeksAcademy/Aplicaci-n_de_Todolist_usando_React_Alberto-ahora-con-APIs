@@ -43,12 +43,6 @@ const ToDoList = () => {
 
     return (
         <div style={{
-            backgroundImage: `url('https://img.freepik.com/foto-gratis/textura-papel-acuarela_1194-2310.jpg')`,
-            backgroundColor: '#f0f0f0',
-            backgroundRepeat: 'repeat',
-            backgroundPosition: 'center',
-            minHeight: '100vh',
-            width: '100vw',
             display: 'flex',
             flexDirection: 'column',
             alignItems: 'center',
